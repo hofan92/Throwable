@@ -1,0 +1,52 @@
+# Default ignored files
+
+# ---- Maven
+target/
+.keep
+# ---- IntelliJ IDEA
+*.iws
+*.iml
+*.log
+*.ipr
+.idea/
+
+# ---- Eclipse
+.classpath
+.project
+.settings
+
+# ---- Mac OS X
+.DS_Store?
+# Thumbnails
+._*
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# ---- Windows
+# Windows image file caches
+Thumbs.db
+# Folder config file
+Desktop.ini
+.java-version
+/scf.iml
+
+# scf-web
+package-lock.json
+stats.json
+my.dev.env.js
+my.index.js
+node_modules/
+dist/
+.history/
+
+# scf-service
+bootstrap.yml
+
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
